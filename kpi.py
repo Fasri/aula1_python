@@ -5,7 +5,7 @@ nome = input('Qual o se nome ? : ')
 salario = float(input('Qual o valor do salario? : '))
 
 # Solicitar o valor percentual do bonus
-bonus = float(input('Qual o valor do seu bonus? : '))
+bonus = float(input('Qual o valor do seu bonus (%)? : '))
 
 #Calculo do KPI
 kpi = 1000 + salario * bonus
